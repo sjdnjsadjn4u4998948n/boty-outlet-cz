@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://boty-outlet.cz/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default"
+                href="https://boty-outlet.cz/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ"
+                href="https://boty-outlet.cz/cs-cz/" />
+  </url>
+
+  <url>
+    <loc>https://boty-outlet.cz/cs-cz/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default"
+                href="https://boty-outlet.cz/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ"
+                href="https://boty-outlet.cz/cs-cz/" />
+  </url>
+
+</urlset>
